@@ -1,6 +1,6 @@
 # Website Deployment Source Code
 
- <img alt=Support height="400" width="400" src="https://github.com/SILENT042/silent-sc-Open-Source/assets/171089357/01f495ee-5ba9-40e8-9de2-07fe247f726e"> 
+ <img alt=Support height="400" width="400" src="https://github.com/AstroLegends/Web-Delpoy-Open-Source/assets/171089357/01f495ee-5ba9-40e8-9de2-07fe247f726e"> 
 
 Here's The Source Code [Source Code.zip](https://github.com/user-attachments/files/15516945/Source.Code.zip)
 
@@ -9,16 +9,16 @@ This repository contains the source code for a Node.js web application. Below ar
 ## Successful Deployments
 
 ##### Heroku
-https://silent-sc-session-d22302dc8ebe.herokuapp.com/
+https://web-delpoy-session-d22302dc8ebe.herokuapp.com/
 
 #### Koyeb
 https://web-deploy-astrolegendgroup-a070f0b7.koyeb.app/
 
 ### Vercel
-https://silent-sc-open-source.vercel.app/
+https://web-delpoy-open-source.vercel.app/
 
 ### Render
-https://silent-sc-open-source.onrender.com
+https://web-delpoy-open-source.onrender.com
 
 ## Getting Started
 
